@@ -4,12 +4,12 @@
   <name>colour</name>
   <fileName>colour</fileName>
   <image>
-   <title>1979 bicikle.jpg</title>
+   <title>1.jpg</title>
    <description></description>
-   <date>2020-02-22T21:33:32</date>
-   <full fileName="1979_bicikle_jpg.jpeg" height="644" width="872"/>
-   <thumbnail fileName="thumb_1979_bicikle_jpg.png" height="100" width="100"/>
-   <original fileName="original_1979_bicikle_jpg.jpeg" height="644" width="872"/>
+   <date>2020-02-23T09:52:00</date>
+   <full fileName="1_jpg.jpeg" height="655" width="875"/>
+   <thumbnail fileName="thumb_1_jpg.png" height="100" width="100"/>
+   <original fileName="original_1_jpg.jpeg" height="655" width="875"/>
    <exif>
     <exifimagemake>unavailable</exifimagemake>
     <exifimagemodel>unavailable</exifimagemodel>
@@ -17,7 +17,7 @@
     <exifimagexresolution>unavailable</exifimagexresolution>
     <exifimageyresolution>unavailable</exifimageyresolution>
     <exifimageresolutionunit>unavailable</exifimageresolutionunit>
-    <exifimagedatetime>22/02/2020 9:33 PM</exifimagedatetime>
+    <exifimagedatetime>23/02/2020 9:52 AM</exifimagedatetime>
     <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
     <exifphotoexposuretime>unavailable</exifphotoexposuretime>
     <exifphotofnumber>unavailable</exifphotofnumber>
@@ -32,12 +32,12 @@
    </exif>
   </image>
   <image>
-   <title>baba velika i ja lakocerej.jpg</title>
+   <title>2.jpg</title>
    <description></description>
-   <date>2017-07-02T00:07:50</date>
-   <full fileName="baba_velika_i_ja_lakocerej_jpg.jpg" height="861" width="653"/>
-   <thumbnail fileName="thumb_baba_velika_i_ja_lakocerej_jpg.png" height="100" width="100"/>
-   <original fileName="original_baba_velika_i_ja_lakocerej_jpg.jpg" height="861" width="653"/>
+   <date>2020-02-23T09:56:16</date>
+   <full fileName="2_jpg.jpeg" height="624" width="860"/>
+   <thumbnail fileName="thumb_2_jpg.png" height="100" width="100"/>
+   <original fileName="original_2_jpg.jpeg" height="624" width="860"/>
    <exif>
     <exifimagemake>unavailable</exifimagemake>
     <exifimagemodel>unavailable</exifimagemodel>
@@ -45,7 +45,7 @@
     <exifimagexresolution>unavailable</exifimagexresolution>
     <exifimageyresolution>unavailable</exifimageyresolution>
     <exifimageresolutionunit>unavailable</exifimageresolutionunit>
-    <exifimagedatetime>2/07/2017 12:07 AM</exifimagedatetime>
+    <exifimagedatetime>23/02/2020 9:56 AM</exifimagedatetime>
     <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
     <exifphotoexposuretime>unavailable</exifphotoexposuretime>
     <exifphotofnumber>unavailable</exifphotofnumber>
@@ -60,12 +60,12 @@
    </exif>
   </image>
   <image>
-   <title>baba velika lakocerej.jpg</title>
+   <title>3.jpg</title>
    <description></description>
-   <date>2017-07-02T00:06:28</date>
-   <full fileName="baba_velika_lakocerej_jpg.jpeg" height="857" width="673"/>
-   <thumbnail fileName="thumb_baba_velika_lakocerej_jpg.png" height="100" width="100"/>
-   <original fileName="original_baba_velika_lakocerej_jpg.jpeg" height="857" width="673"/>
+   <date>2020-02-23T09:56:16</date>
+   <full fileName="3_jpg.jpeg" height="651" width="857"/>
+   <thumbnail fileName="thumb_3_jpg.png" height="100" width="100"/>
+   <original fileName="original_3_jpg.jpeg" height="651" width="857"/>
    <exif>
     <exifimagemake>unavailable</exifimagemake>
     <exifimagemodel>unavailable</exifimagemodel>
@@ -73,7 +73,35 @@
     <exifimagexresolution>unavailable</exifimagexresolution>
     <exifimageyresolution>unavailable</exifimageyresolution>
     <exifimageresolutionunit>unavailable</exifimageresolutionunit>
-    <exifimagedatetime>2/07/2017 12:06 AM</exifimagedatetime>
+    <exifimagedatetime>23/02/2020 9:56 AM</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>4.jpg</title>
+   <description></description>
+   <date>2020-02-23T09:56:16</date>
+   <full fileName="4_jpg.jpeg" height="658" width="859"/>
+   <thumbnail fileName="thumb_4_jpg.png" height="100" width="100"/>
+   <original fileName="original_4_jpg.jpeg" height="658" width="859"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>unavailable</exifimagexresolution>
+    <exifimageyresolution>unavailable</exifimageyresolution>
+    <exifimageresolutionunit>unavailable</exifimageresolutionunit>
+    <exifimagedatetime>23/02/2020 9:56 AM</exifimagedatetime>
     <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
     <exifphotoexposuretime>unavailable</exifphotoexposuretime>
     <exifphotofnumber>unavailable</exifphotofnumber>
