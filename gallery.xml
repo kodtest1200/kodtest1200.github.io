@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collections>
+ <collection>
+  <name>colour</name>
+  <fileName>colour</fileName>
+  <image>
+   <title>IMG_1402.JPG</title>
+   <description></description>
+   <date>2020-03-08T17:25:40</date>
+   <full fileName="img_1402_jpg.jpeg" height="500" width="368"/>
+   <thumbnail fileName="thumb_img_1402_jpg.png" height="100" width="100"/>
+   <original fileName="original_img_1402_jpg.jpeg" height="500" width="368"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>unavailable</exifimagedatetime>
+    <exifimageycbcrpositioning>Centered</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+</collections>
